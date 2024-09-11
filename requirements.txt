@@ -3,3 +3,4 @@ jupyter==1.0.0
 intel-tensorflow==2.9.1
 matplotlib==3.5.2
 mock==4.0.3
+google-generativeai==0.7.2
