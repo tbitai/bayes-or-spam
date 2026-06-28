@@ -6,6 +6,8 @@
 
 Spam filtering with Bayesian epistemology.
 
+NEW! Unpolished work towards [Bayesian LLM interpretation analyzing fastText](bayes_or_spam_fasttext.py).
+
 ## Development
 
 In the `requirements.txt`, the Intel Optimizations for TensorFlow package (`intel-tensorflow`) is listed. Change that to 
